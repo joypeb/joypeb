@@ -14,5 +14,5 @@
  - AWS
  - Docker
  
- INFO --- [velog] https://velog.io/@joypeb
+ [velog] https://velog.io/@joypeb
 ```
