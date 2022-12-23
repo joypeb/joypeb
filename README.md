@@ -7,6 +7,7 @@
   "cloud": "AWS",
   "virtualization": "Docker",
   "email": "joypeb@naver.com",
-  "blog": "https://velog.io/@joypeb"
+  "blog": "https://velog.io/@joypeb",
+  "gitlab": "https://gitlab.com/joypeb"
 }
 ```
