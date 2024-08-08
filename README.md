@@ -1,9 +1,9 @@
 ```json
 {
   "name": "ParkEunBin",
-  "language": ["Java", "JavaScript"],
-  "framework": "Spring",
-  "database": "MySql",
+  "language": ["Java", "JavaScript", "Python"],
+  "framework": ["Spring", "Django"],
+  "database": ["Postgresql", "MySql"],
   "cloud": "AWS",
   "virtualization": "Docker",
   "email": "joypeb@naver.com",
