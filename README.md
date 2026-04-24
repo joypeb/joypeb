@@ -1,8 +1,8 @@
 ```json
 {
-  "name": "ParkEunBin",
+  "name": "ParkEunBeen",
   "language": ["Java", "JavaScript", "Python"],
-  "framework": ["Spring", "Django"],
+  "framework": ["SpringBoot", "Django"],
   "database": ["Postgresql", "MySql"],
   "cloud": "AWS",
   "virtualization": "Docker",
